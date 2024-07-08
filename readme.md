@@ -20,7 +20,8 @@ $ ./qc_ssh_install.sh /dev/sde2
 
 You need always to run this on both partitions !
 
-I can highly recommend to use such a SD card expansion for an easy access to the QC System Image:
+I can highly recommend to use such a SD card expansion for an easy access to the QC System Image.
+Also to do regularly a backup of the SD image and to easily remove the SD card in use and then check it for damage or problems.
 
 ![](Screenshot_from_2024_06_20_11_17_45.png)
 
